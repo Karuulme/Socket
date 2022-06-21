@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\Karuu\Desktop\cpp socket\Client\Client\Client\Client.cpp(30,13): warning C4244: 'başlatılıyor': 'SOCKET' - 'int' dönüşümü; veri kaybı olabilir
+  Client.vcxproj -> C:\Users\Karuu\Desktop\cpp socket\Client\Client\x64\Debug\Client.exe
